@@ -1,0 +1,14 @@
+{
+  "name": "rc-car-server",
+  "version": "0.9.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Korsunsky",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}
